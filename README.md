@@ -1,2 +1,2 @@
-# PythonForBeginnersProframs
-it  contains basic to interediate level python programming 
+# PythonForBeginnersPrograms
+it  contains basic to interemediate level python programming 
